@@ -1,0 +1,16 @@
+Sampleid,Cutoff,Clonotypes,Associated_Clones,class
+Subject_102,AssociatedClones_Cutoff_1e-02,196053,0,Negative
+Subject_15,AssociatedClones_Cutoff_1e-02,164268,1,Negative
+Subject_22,AssociatedClones_Cutoff_1e-02,100520,1,Negative
+Subject_42,AssociatedClones_Cutoff_1e-02,149647,0,Negative
+Subject_46,AssociatedClones_Cutoff_1e-02,132574,0,Negative
+Subject_57,AssociatedClones_Cutoff_1e-02,115838,0,Negative
+Subject_60,AssociatedClones_Cutoff_1e-02,140800,0,Negative
+Subject_67,AssociatedClones_Cutoff_1e-02,99206,0,Negative
+Subject_74,AssociatedClones_Cutoff_1e-02,131294,1,Negative
+Subject_77,AssociatedClones_Cutoff_1e-02,201029,0,Negative
+Subject_81,AssociatedClones_Cutoff_1e-02,82616,0,Negative
+Subject_86,AssociatedClones_Cutoff_1e-02,135684,0,Negative
+Subject_91,AssociatedClones_Cutoff_1e-02,142583,0,Negative
+Subject_96,AssociatedClones_Cutoff_1e-02,55361,0,Negative
+Subject_99,AssociatedClones_Cutoff_1e-02,229547,0,Negative
